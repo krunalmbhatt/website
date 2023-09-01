@@ -1,2 +1,1 @@
-# krunalbhatt.github.io
-Portfolio Website
+# My Portfolio website
